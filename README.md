@@ -1,8 +1,10 @@
 # EX-NO-6-Pseudo-Random-Number
 
+
 # AIM: 
 
 Implementation of Pseudorandom Number Generation Using Standard library
+
 
 # ALGORITHM:
 
@@ -41,9 +43,12 @@ int main()
     return 0;
 }
 ```
+
+
 # OUTPUT:
 
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/3d4a60e8-056e-42e1-9639-659e37f1ac81">
+
 
 # RESULT:
 The implementation of Pseudorandom Number Generation using Standard library is successful.
