@@ -1,5 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
 
+## NAME:MOHAMMED FAIZAL J
+## REG NO:212222100027
+
 
 # AIM: 
 
